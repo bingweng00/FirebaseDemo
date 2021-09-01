@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963884442071",
+    "firebase_url": "https://fir-rit-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-rit",
+    "storage_bucket": "fir-rit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963884442071:android:9f9950c635cf6c58f3eb92",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963884442071-u1s9ivt58rmvvec95puf8mva8287261f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3xn7qbWrgMfkifQMeqxoW6Plo5mgf3yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963884442071-u1s9ivt58rmvvec95puf8mva8287261f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
